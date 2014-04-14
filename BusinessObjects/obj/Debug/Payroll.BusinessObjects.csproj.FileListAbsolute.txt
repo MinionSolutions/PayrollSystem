@@ -1,0 +1,9 @@
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\inetpub\PayrollSystem\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\inetpub\PayrollSystem\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\inetpub\PayrollSystem\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\inetpub\PayrollSystem\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\inetpub\PayrollSystem\BusinessObjects\obj\Debug\Payroll.BusinessObjects.csprojResolveAssemblyReference.cache

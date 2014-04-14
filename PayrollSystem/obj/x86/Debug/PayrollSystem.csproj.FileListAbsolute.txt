@@ -1,0 +1,46 @@
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\BusinessLogic.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\Payroll.Base.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\Payroll.Utilities.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\DataAccessLayer.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\BusinessLogic.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\Payroll.Base.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\Payroll.Utilities.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\bin\Debug\DataAccessLayer.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmAddEmployee.resources
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmPayroll.resources
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmManageEmployee.resources
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.exe
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.pdb
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\BusinessLogic.dll
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\ExcelPackage.dll
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\Payroll.Base.dll
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\Payroll.Utilities.dll
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\DataAccessLayer.dll
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\BusinessLogic.pdb
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\Payroll.Base.pdb
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\Payroll.Utilities.pdb
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\ExcelPackage.pdb
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\DataAccessLayer.pdb
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmAddEmployee.resources
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmPayroll.resources
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmManageEmployee.resources
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.Properties.Resources.resources
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.csproj.GenerateResource.Cache
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmPayslip.resources
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\BusinessObjects.dll
+C:\inetpub\PayrollSystem\PayrollSystem\bin\Debug\BusinessObjects.pdb
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\PayrollSystem.frmPayslipPreview.resources
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\RdlCompile.cache
+C:\inetpub\PayrollSystem\PayrollSystem\obj\x86\Debug\RdlCompile.compiled

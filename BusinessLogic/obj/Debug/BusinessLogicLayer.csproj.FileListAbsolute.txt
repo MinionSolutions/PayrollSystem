@@ -1,0 +1,9 @@
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessLogic\bin\Debug\DataAccessLayer.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessLogic\bin\Debug\Payroll.Base.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessLogic\bin\Debug\Payroll.Base.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessLogic\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
