@@ -126,6 +126,8 @@ namespace Payroll.BusinessObjects.Models
         /// The emp salary.
         /// </value>
         public double empSalary { get; set; }
+
+
         #endregion
 
         #region Payslip Report

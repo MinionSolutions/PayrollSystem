@@ -16,3 +16,12 @@ C:\inetpub\PayrollSystem\DataAccessLayer\bin\Debug\Payroll.Utilities.pdb
 C:\inetpub\PayrollSystem\DataAccessLayer\obj\Debug\Payroll.DataAccessLayer.csprojResolveAssemblyReference.cache
 C:\inetpub\PayrollSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\inetpub\PayrollSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Sandbox\PayrollSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Sandbox\PayrollSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Sandbox\PayrollSystem\DataAccessLayer\bin\Debug\BusinessObjects.dll
+E:\Sandbox\PayrollSystem\DataAccessLayer\bin\Debug\Payroll.Utilities.dll
+E:\Sandbox\PayrollSystem\DataAccessLayer\bin\Debug\BusinessObjects.pdb
+E:\Sandbox\PayrollSystem\DataAccessLayer\bin\Debug\Payroll.Utilities.pdb
+E:\Sandbox\PayrollSystem\DataAccessLayer\obj\Debug\Payroll.DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\Sandbox\PayrollSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Sandbox\PayrollSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

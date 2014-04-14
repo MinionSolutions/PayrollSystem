@@ -7,3 +7,8 @@ C:\inetpub\PayrollSystem\BusinessObjects\bin\Debug\BusinessObjects.pdb
 C:\inetpub\PayrollSystem\BusinessObjects\obj\Debug\BusinessObjects.dll
 C:\inetpub\PayrollSystem\BusinessObjects\obj\Debug\BusinessObjects.pdb
 C:\inetpub\PayrollSystem\BusinessObjects\obj\Debug\Payroll.BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Sandbox\PayrollSystem\BusinessObjects\bin\Debug\BusinessObjects.dll
+E:\Sandbox\PayrollSystem\BusinessObjects\bin\Debug\BusinessObjects.pdb
+E:\Sandbox\PayrollSystem\BusinessObjects\obj\Debug\Payroll.BusinessObjects.csprojResolveAssemblyReference.cache
+E:\Sandbox\PayrollSystem\BusinessObjects\obj\Debug\BusinessObjects.dll
+E:\Sandbox\PayrollSystem\BusinessObjects\obj\Debug\BusinessObjects.pdb

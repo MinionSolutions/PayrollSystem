@@ -12,3 +12,10 @@ C:\inetpub\PayrollSystem\Payroll.Utilities\bin\Debug\BusinessObjects.pdb
 C:\inetpub\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.csprojResolveAssemblyReference.cache
 C:\inetpub\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.dll
 C:\inetpub\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.pdb
+E:\Sandbox\PayrollSystem\Payroll.Utilities\bin\Debug\Payroll.Utilities.dll
+E:\Sandbox\PayrollSystem\Payroll.Utilities\bin\Debug\Payroll.Utilities.pdb
+E:\Sandbox\PayrollSystem\Payroll.Utilities\bin\Debug\BusinessObjects.dll
+E:\Sandbox\PayrollSystem\Payroll.Utilities\bin\Debug\BusinessObjects.pdb
+E:\Sandbox\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.csprojResolveAssemblyReference.cache
+E:\Sandbox\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.dll
+E:\Sandbox\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.pdb

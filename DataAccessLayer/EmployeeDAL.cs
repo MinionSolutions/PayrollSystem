@@ -8,6 +8,8 @@ using System.Configuration;
 using Payroll.BusinessObjects.Enums;
 using Payroll.Utilities;
 using Payroll.BusinessObjects.Models;
+using System.Xml.Serialization;
+using System.IO;
 
 namespace Payroll.DataAccessLayer
 {
@@ -34,6 +36,42 @@ namespace Payroll.DataAccessLayer
 
             }
             return employeenumber;
+        }
+
+        public static void CreateEmployee(EmployeeModel empModel)
+        {
+            try
+            {
+                XmlSerializer serializer = new XmlSerializer(empModel.GetType());
+                StringWriter sw = new StringWriter();
+                serializer.Serialize(sw, empModel);
+                string xmldoc = sw.ToString();
+                try
+                {
+                    using (SqlConnection conn = new SqlConnection(ConfigurationManager.ConnectionStrings["PayrollSystem.Properties.Settings.HRISConnectionString"].ConnectionString))
+                    {
+                        conn.Open();
+                        SqlCommand cmd = new SqlCommand("[Payroll].[createNewEmployee]", conn);
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.Add(new SqlParameter("@Employee", xmldoc));
+                        int result = cmd.ExecuteNonQuery();
+                        cmd.Dispose();
+                        conn.Close();
+                    }
+
+                }
+                catch (SqlException se)
+                {
+                    PayrollLogger.Log(se.ToString(), (int)LogType.Error);
+                }
+
+            }
+            catch (Exception e)
+            {
+                PayrollLogger.Log(e.ToString(), (int)LogType.Error);
+
+            }
+
         }
         public static List<string> getEmployeeName()
         {

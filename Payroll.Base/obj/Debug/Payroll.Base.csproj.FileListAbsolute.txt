@@ -6,3 +6,7 @@ C:\inetpub\PayrollSystem\Payroll.Base\bin\Debug\Payroll.Base.dll
 C:\inetpub\PayrollSystem\Payroll.Base\bin\Debug\Payroll.Base.pdb
 C:\inetpub\PayrollSystem\Payroll.Base\obj\Debug\Payroll.Base.dll
 C:\inetpub\PayrollSystem\Payroll.Base\obj\Debug\Payroll.Base.pdb
+E:\Sandbox\PayrollSystem\Payroll.Base\bin\Debug\Payroll.Base.dll
+E:\Sandbox\PayrollSystem\Payroll.Base\bin\Debug\Payroll.Base.pdb
+E:\Sandbox\PayrollSystem\Payroll.Base\obj\Debug\Payroll.Base.dll
+E:\Sandbox\PayrollSystem\Payroll.Base\obj\Debug\Payroll.Base.pdb

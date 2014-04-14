@@ -55,16 +55,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddEmployee.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="AddEmployee.Designer.cs">
-      <DependentUpon>AddEmployee.cs</DependentUpon>
-    </Compile>
     <Compile Include="frmPayroll.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmPayroll.Designer.cs">
+    <Compile Include="frmPayroll.designer.cs">
       <DependentUpon>frmPayroll.cs</DependentUpon>
     </Compile>
     <Compile Include="frmPayslip.cs">
@@ -82,14 +76,11 @@
     <Compile Include="ManageEmployee.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ManageEmployee.Designer.cs">
+    <Compile Include="ManageEmployee.designer.cs">
       <DependentUpon>ManageEmployee.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="AddEmployee.resx">
-      <DependentUpon>AddEmployee.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="frmPayroll.resx">
       <DependentUpon>frmPayroll.cs</DependentUpon>
     </EmbeddedResource>
