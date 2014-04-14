@@ -24,3 +24,16 @@ C:\inetpub\PayrollSystem\BusinessLogic\bin\Debug\DataAccessLayer.pdb
 C:\inetpub\PayrollSystem\BusinessLogic\bin\Debug\Payroll.Base.pdb
 C:\inetpub\PayrollSystem\BusinessLogic\bin\Debug\Payroll.Utilities.pdb
 C:\inetpub\PayrollSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\BusinessObjects.dll
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\DataAccessLayer.dll
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\Payroll.Base.dll
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\Payroll.Utilities.dll
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\BusinessObjects.pdb
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\DataAccessLayer.pdb
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\Payroll.Base.pdb
+E:\Sandbox\PayrollSystem\BusinessLogic\bin\Debug\Payroll.Utilities.pdb
+E:\Sandbox\PayrollSystem\BusinessLogic\obj\Debug\Payroll.BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\Sandbox\PayrollSystem\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Sandbox\PayrollSystem\BusinessLogic\obj\Debug\BusinessLogic.pdb

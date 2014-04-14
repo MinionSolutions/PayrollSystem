@@ -30,8 +30,33 @@ namespace Payroll.BusinessLogicLayer
             return generateEmployeeNumber(sequence);
 
         }
-        public void CreateEmployee() { 
-            
+        public void CreateEmployee(string empId, string empLName, string empFName, string empMName, DateTime empBDay, string empBPlace, string empGender, string empCNumber, string empReligion, string empCitizen, string empCivilStatus, string empEAdd, string empCompany, string empPosition, string empDepartment, double empBasicSalary, string empTaxCode, string empSSSNumber, string empPAGIBIGNo, string empPhilHealthNo, string empTINNo)
+        {
+            EmployeeModel empModel = new EmployeeModel();
+            empModel.empId = empId;
+            empModel.empLName = empLName;
+            empModel.empFName = empFName;
+            empModel.empMName = empMName;
+            empModel.empBirthdate = empBDay;
+            empModel.empBirthPlace = empBPlace;
+            empModel.empGender = empGender;
+            empModel.empContactNumber = empCNumber;
+            empModel.empReligion = empReligion;
+            empModel.empCitizenship = empCitizen;
+            empModel.empCivilStatus = empCivilStatus;
+            empModel.empEmail = empEAdd;
+            empModel.empCompany = empCompany;
+            empModel.empPosition = empPosition;
+            empModel.empDepartment =empDepartment;
+            empModel.empSalary = empBasicSalary;
+            empModel.empTaxStatus = empTaxCode;
+            empModel.empSSSNumber = empSSSNumber;
+            empModel.empPagibigNumber = empPAGIBIGNo;
+            empModel.empPHNumber = empPhilHealthNo;
+            empModel.empTINNumber = empTINNo;
+
+            EmployeeDAL.CreateEmployee(empModel);
+
         }
         public static List<string> getEmployeeNames() 
         {
