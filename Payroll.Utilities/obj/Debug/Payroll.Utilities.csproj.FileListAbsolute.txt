@@ -1,0 +1,14 @@
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\Payroll.Utilities\bin\Debug\Payroll.Utilities.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\Payroll.Utilities\bin\Debug\Payroll.Utilities.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\Payroll.Utilities\bin\Debug\BusinessObjects.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\Payroll.Utilities\bin\Debug\BusinessObjects.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.pdb
+C:\inetpub\PayrollSystem\Payroll.Utilities\bin\Debug\Payroll.Utilities.dll
+C:\inetpub\PayrollSystem\Payroll.Utilities\bin\Debug\Payroll.Utilities.pdb
+C:\inetpub\PayrollSystem\Payroll.Utilities\bin\Debug\BusinessObjects.dll
+C:\inetpub\PayrollSystem\Payroll.Utilities\bin\Debug\BusinessObjects.pdb
+C:\inetpub\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.csprojResolveAssemblyReference.cache
+C:\inetpub\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.dll
+C:\inetpub\PayrollSystem\Payroll.Utilities\obj\Debug\Payroll.Utilities.pdb

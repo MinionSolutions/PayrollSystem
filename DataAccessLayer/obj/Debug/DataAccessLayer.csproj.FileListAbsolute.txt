@@ -1,0 +1,4 @@
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Developer2\documents\visual studio 2010\Projects\PayrollSystem\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
